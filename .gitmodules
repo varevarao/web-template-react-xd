@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:varevarao/hackathon-starter.git
